@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello World!
 
-<!--
-**losedavidpb/losedavidpb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is David Parreño Barbuzano and one of my passions is programming.
+During my studies, I have adquiered lots of knowledge and skills about Computer
+Science, and I am looking forward to start cool projects on this site!
 
-Here are some ideas to get you started:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=losedavidpb&layout=compact" align="left"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="right">
+  <h2>Currently working on...</h2>
+  <li>c3P language programming </li>
+  <li>machine learning for tourism</li>
+  <li>computer vision with processing</li>
+  <li>modding for Crusaders King III</li>
+</p>
