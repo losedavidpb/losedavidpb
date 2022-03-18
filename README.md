@@ -11,5 +11,5 @@ Science, and I am looking forward to start cool projects on this site!
   <li>c3P language programming </li>
   <li>machine learning for tourism</li>
   <li>computer vision with processing</li>
-  <li>modding for Crusaders King III</li>
+  <li>graphical builder for Processing</li>
 </p>
