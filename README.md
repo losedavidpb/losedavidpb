@@ -9,7 +9,7 @@ Science, and I am looking forward to start cool projects on this site!
 <p align="right">
   <h2>Currently working on...</h2>
   <li>c3P language programming </li>
-  <li>machine learning for tourism</li>
+  <li>lexical analyzer for Moodle</li>
   <li>computer vision with processing</li>
   <li>graphical builder for Processing</li>
 </p>
