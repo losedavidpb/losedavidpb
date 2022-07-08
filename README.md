@@ -10,6 +10,4 @@ Science, and I am looking forward to start cool projects on this site!
   <h2>Currently working on...</h2>
   <li>c3P language programming </li>
   <li>lexical analyzer for Moodle</li>
-  <li>Doom fan game with processing</li>
-  <li>2D Game engine</li>
 </p>
