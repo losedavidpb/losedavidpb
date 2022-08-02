@@ -8,6 +8,6 @@ Science, and I am looking forward to start cool projects on this site!
 
 <p align="right">
   <h2>Currently working on...</h2>
-  <li>c3P language programming </li>
-  <li>lexical analyzer for Moodle</li>
+  <li>Modding for Crusader Kings III</li>
+  <li>Lexical analyzer generator for VPL</li>
 </p>
