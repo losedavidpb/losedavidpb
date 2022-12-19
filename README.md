@@ -9,5 +9,5 @@ Science, and I am looking forward to start cool projects on this site!
 <p align="right">
   <h2>Currently working on...</h2>
   <li>Game development in Unity</li>
-  <li>Lexical analyzer generator for VPL</li>
+  <li>Game Engine developed in C</li>
 </p>
