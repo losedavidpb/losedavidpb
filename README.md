@@ -17,7 +17,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=losedavidpb&locale=en&layout=compact&card_width=350&langs_count=6&" height="180" alt="languages graph" align="left" />
 
-I'm David, a Spanish computer engineer doing a Masters in Limerick, Ireland.<br>
+I'm David, a Spanish computer engineer doing a Masters in Ireland.<br>
 Currently focusing on music and coding. 🖥️🎵
 
 ###
