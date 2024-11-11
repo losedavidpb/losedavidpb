@@ -15,14 +15,14 @@
 
 ### 👩‍💻 About me
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=losedavidpb&locale=en&layout=compact&card_width=320&langs_count=6&" height="150" alt="languages graph" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=losedavidpb&locale=en&layout=compact&card_width=350&langs_count=6&" height="180" alt="languages graph" align="left" />
 
 I'm David, a Spanish computer engineer doing a Masters in Limerick, Ireland.<br>
 Currently focusing on music and coding. 🖥️🎵
 
 ###
 
+Looking forward to starting cool projects on this site!
+
 ✨ Creating bugs since 2018<br>
 📚 I'm currently learning Software Engineering<br>
-
-Looking forward to starting cool projects on this site!
