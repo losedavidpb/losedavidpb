@@ -13,7 +13,7 @@
 
 ###
 
-### 👩‍💻 About me
+### 👨‍💻 About me
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=losedavidpb&locale=en&layout=compact&card_width=350&langs_count=6&" height="180" alt="languages graph" align="left" />
 
